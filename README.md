@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nazareno</h1>
+<h1 align="center">Hi to everyone👋, I'm Nazareno Garma</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
-
-- 🔭 I’m currently working on **Vidaria**
 
 - 🌱 I’m currently learning **Docker & Cloud Deployment**
 
