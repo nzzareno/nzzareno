@@ -40,13 +40,13 @@ I'm currently diving deep into **Docker & Cloud Deployment** to expand my knowle
 
 <div align="left">
   <a href="https://www.instagram.com/garmanaz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff1493&logoColor=white&labelColor=ff69b4&style=for-the-badge&labelColor=8a2be2" height="30" alt="Instagram" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);" />
   </a>
   <a href="mailto:garmatorresnazareno@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4500&logoColor=white&labelColor=FF6347&style=for-the-badge" height="30" alt="Gmail" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);" />
   </a>
   <a href="https://www.linkedin.com/in/nzzareno/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00BFFF&logoColor=white&labelColor=1E90FF&style=for-the-badge" height="30" alt="LinkedIn" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);" />
   </a>
 </div>
 
