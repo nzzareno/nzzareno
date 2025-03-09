@@ -9,9 +9,8 @@ I'm currently diving deep into **Docker & Cloud Deployment** to expand my knowle
 💬 Feel free to ask me about:
 
 - **Java** & the **Spring Framework**
-- **ReactJS** for frontend applications
-- State management with **Redux**
-- Database systems like **MySQL**, **PostgreSQL**, and **MongoDB**
+- **ReactJS** & **VueJS** for frontend applications
+- **SQL**
 
 ## 🛠 Tech Stack
 
